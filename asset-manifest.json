@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uditha-liyanage/static/css/main.f855e6bc.css",
+    "main.js": "/uditha-liyanage/static/js/main.929a0c5b.js",
+    "static/js/453.6dba8a1c.chunk.js": "/uditha-liyanage/static/js/453.6dba8a1c.chunk.js",
+    "static/media/logo.svg": "/uditha-liyanage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/uditha-liyanage/index.html",
+    "main.f855e6bc.css.map": "/uditha-liyanage/static/css/main.f855e6bc.css.map",
+    "main.929a0c5b.js.map": "/uditha-liyanage/static/js/main.929a0c5b.js.map",
+    "453.6dba8a1c.chunk.js.map": "/uditha-liyanage/static/js/453.6dba8a1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.929a0c5b.js"
+  ]
+}
